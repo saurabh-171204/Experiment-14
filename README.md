@@ -191,8 +191,8 @@ int main()
 
 (D)
 ```
-// NMAE - SHLOKA PATEL 
-// PRN - 23070123120 
+// NMAE - SAURABH BIHANI
+// PRN - 23070123166 
 // EXPERIMENT - 14(D) 
 
 // Program to show Hiererchical Inheritance.                    
