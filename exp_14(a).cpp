@@ -1,5 +1,5 @@
-// Name --> Aditya Agarwal
-// PRN --> 23070123162
+// Name --> SAURABH BIHANI
+// PRN --> 23070123166
 
 // What is Inheritance ??
 // Inheritance in c++ is a fundamental concept in oops that allow one class(child class) to inherit the properties and behavior(meathods) from parent class 
