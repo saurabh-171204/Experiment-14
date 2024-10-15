@@ -1,5 +1,5 @@
-// Name --> Aditya Agarwal
-// PRN --> 23070123162
+// Name --> SAURABH BIHANI
+// PRN --> 23070123166
 
 // Code which demonstrates Hierarchical Inheritance 
 // Hierarchical Inheritance -> Multiple classes inherit form a single base class.
