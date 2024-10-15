@@ -1,5 +1,5 @@
-// Name --> Aditya Agarwal
-// PRN --> 23070123162
+// Name --> SAURABH BIHANI
+// PRN --> 23070123166
 
 // Code which demonstrates Multiple Inhertance 
 // Multiple Inheritance -> A derived class inherits from more than one base class.
