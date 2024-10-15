@@ -187,7 +187,8 @@ int main()
     return 0;
 }
 ```
-![Output_14C](https://github.com/user-attachments/assets/e8d0d97f-9a3e-49d1-8e7a-f633f79c6430)
+![WhatsApp Image 2024-10-08 at 22 42 18 (1)](https://github.com/user-attachments/assets/ccfa60e9-34bb-45e5-ab3e-b0b9994ec2ae)
+
 
 (D)
 ```
